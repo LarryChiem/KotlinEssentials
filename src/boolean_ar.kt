@@ -1,6 +1,6 @@
 fun main() {
     demoBoolean()
-//   demoChar()
+//    demoChar()
 }
 
 private fun demoBoolean() {
